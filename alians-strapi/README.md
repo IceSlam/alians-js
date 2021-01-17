@@ -1,3 +1,3 @@
-# Strapi application
+# Alians Company's website Strapi Engine
 
-A quick description of your strapi application
+Strapi Engine for a new Alians Company corporate website
